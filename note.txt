@@ -1,0 +1,133 @@
+Tiny One
+
+Layout and Section---
+    header banner feature contact footer
+
+
+######################################
+Section by section
+
+    1. Bootstrap HTML and CSS with resources used in the project
+    2. Custom CSS
+    3. Responsiveness check (padding, sizing, etc) -- 
+        
+
+======================================
+
+xxl - 1440 - 1600 - 1800 - 2100
+xl - 1200 
+lg - 1024
+
+md - 768
+
+sm - 576 
+col - 320
+
+
+padding     100-120             80              50-70
+
+header---------
+
+            xxl/xl/lg             md            sm/col
+menu        22                  22                 20
+
+
+
+
+
+
+slider---------
+            xxl/xl/lg           md             sm/col
+h1          32                  32              25
+h2          20                  20              18
+p           16                  16              16
+icon        42                  42              35
+pb          100                 100             60
+
+feature---------
+            xxl/xl/lg           md          sm/col
+pt          100                 80          50
+pb          120                 100         70
+
+h1          32                  32          25
+p           20                  20          17
+
+mt          70                  50          30
+
+icon        50                  50          35
+h2          22                  22          20
+p           16                  16          16
+
+contact----------
+            xxl/xl/lg           md          sm/col
+pt          100                 80          50
+pb          120                 100         70
+
+
+
+Contents #######################################
+
+
+icons----
+    
+
+
+fonts---
+    PTSans-Regular  PTSans-Bold
+
+colors---
+    black #010101
+    ash #898989
+    yel #fcdb00
+
+header---
+    Features Support Blog
+
+banner---
+    
+
+    
+
+    
+
+feature---
+    
+
+contact---
+    
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis.
+
+    
+
+    SUBMIT
+
+footer---
+
+        HALOVIETNAM LTD
+    66, Dang Van ngu, Dong Da
+    Hanoi, Vietnam
+
+    contact@halovietnam.com
+
+    +844 35149182
+
+        Examples
+    Shop
+    License
+
+        Contact
+    About
+    Privacy
+    Terms
+
+        Download
+    Support
+    Documents
+
+        Media
+    Blog
+    Forums
+
+colors--------
+    
