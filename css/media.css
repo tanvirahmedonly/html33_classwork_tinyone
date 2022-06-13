@@ -92,6 +92,18 @@
         font-size: 38px;
     }
     /* contact end */
+ /* footer start */
+    footer {
+        padding-bottom: 70px;
+    }
+    .f_1 {
+        text-align: center;
+    }
+    .f_2 {
+        text-align: center;
+        margin-top: 40px;
+    }
+    /* footer end */
 }
 
  /* Small devices (landscape phones, 576px and up) */
@@ -185,6 +197,18 @@
         font-size: 40px;
     }
     /* contact end */
+ /* footer start */
+    footer {
+        padding-bottom: 70px;
+    }
+    .f_1 {
+        text-align: center;
+    }
+    .f_2 {
+        text-align: center;
+        margin-top: 40px;
+    }
+    /* footer end */
 }
 
  /* Medium devices (tablets, 768px and up) */
@@ -204,6 +228,11 @@
         margin-top: 50px;
     }
     /* feature end */
+ /* footer start */
+    footer {
+        padding-bottom: 100px;
+    }
+    /* footer end */
 }
 
  /* Large devices (desktops, 992px and up) */
