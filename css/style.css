@@ -196,3 +196,20 @@ header {
     color: white;
 }
 /* contact end */
+/* footer start */
+footer {
+    background-color: #010101;
+    padding-bottom: 120px;
+}
+.f_1 {}
+.f_1 address {
+    color: #fff;
+}
+.f_2 {
+
+}
+.f_2 p a {
+    color: #fff;
+    text-decoration: none;
+}
+/* footer end */
