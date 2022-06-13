@@ -63,6 +63,9 @@ contact----------
 pt          100                 80          50
 pb          120                 100         70
 
+footer-----------
+            xxl/xl/lg           md          sm/col
+pb          120px               100px       70px
 
 
 Contents #######################################
